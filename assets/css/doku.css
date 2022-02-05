@@ -7934,7 +7934,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #5e72e4 !important;
+  background-color: #ff8e0a !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -18427,7 +18427,7 @@ a.text-lighter:hover, a.text-lighter:focus {
 }
 
 .btn-neutral, .qq-upload-button, .doku_form .no button, button {
-  color: #5e72e4;
+  color: #ff8e0a;
 }
 
 .btn svg:not(:first-child), #dw__login button svg:not(:first-child), .qq-upload-button svg:not(:first-child), .toggleAssistant svg:not(:first-child), .doku_form .no button svg:not(:first-child), #tool__bar button svg:not(:first-child), #dokuwiki__content .editButtons button svg:not(:first-child), #dokuwiki__content #page__revisions button svg:not(:first-child), #dokuwiki__content .secedit button svg:not(:first-child), button svg:not(:first-child),
