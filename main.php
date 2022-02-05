@@ -50,7 +50,11 @@ $showTools = !tpl_getConf('hideTools') || (tpl_getConf('hideTools') && !empty($_
 			margin: 0;
 			width: 100%;
 			background-color: transparent;
+		}
 
+		.mdui-typo sup a {
+			display: inline !important;
+			vertical-align: baseline !important;
 		}
 	</style>
 	<!-- Argon Icons/Fonts/Styles -->
