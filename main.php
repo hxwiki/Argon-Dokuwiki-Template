@@ -123,7 +123,7 @@ $showTools = !tpl_getConf('hideTools') || (tpl_getConf('hideTools') && !empty($_
 		</ul>
 	</aside>
 	<!-- Main -->
-	<main class="mdui-container" style="padding-top: 24px; max-width: 800px;">
+	<main class="mdui-container dokuwiki" style="padding-top: 24px; max-width: 800px;">
 		<!-- Messages -->
 		<?php html_msgarea() ?>
 		<!-- Breadcrumb -->
